@@ -1,0 +1,10 @@
+{
+  "slices": {
+    "BannerSlice": {
+      "default-slice": {
+        "items": {},
+        "primary": {}
+      }
+    }
+  }
+}
