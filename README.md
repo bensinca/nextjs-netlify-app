@@ -1,1 +1,2 @@
-# nextjs-netlify-app
+# Web App built in Next.js + Prismic CMS
+
